@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @orucmahmood
-- 👀 I’m interested in Frontend development, HTML, CSS, JS, React and etc.
-- 🌱 I’m currently learning Frontend developing - HTML, CSS, JS, React.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Android and iOS application development, Dart and Flutter.
+- 🌱 I’m currently learning Flutter.
 
 <!---
 orucmahmood/orucmahmood is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
