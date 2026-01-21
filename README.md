@@ -4,8 +4,6 @@ Hi there, I'm Oruj! 👋
 
 I am a dedicated Flutter Developer who truly loves the art of coding. For me, programming isn't just a career — it's a way to build solutions and bring creative ideas to life. I have a deep love for Flutter because of its power to create seamless, high-performance applications from a single codebase.
 
-📱 What I Do
-
 💙 Flutter Enthusiast: I specialize in building cross-platform apps (iOS & Android) with smooth animations and great UI/UX.
 
 ✍️ Code Lover: I enjoy writing clean, maintainable, and efficient code.
@@ -29,8 +27,6 @@ A dedicated personal wellness companion providing organic health tips.
 
 4. E-codes - Food Additives
 A practical health-conscious tool designed to help users identify food additives (E-numbers) and understand their safety, origins, and dietary suitability.
-
-📊 GitHub Stats
 
 📫 Connect with me:
 
